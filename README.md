@@ -8,7 +8,7 @@ Codes Covering each topic in C and also building up over time
 |          | Day 4  | Control Structures: Conditionals                                    | Introduction to conditional statements such as if, else if, and switch-case. 
 |          | Day 5  | Control Structures: Loops and Conditionals (Continued)              | Combining loops and conditionals to create more complex programs.
 |          | Day 6  | Practice Exercises                                                  | Apply the concepts learned in the previous days through practice exercises. 
-|          | Day 7  | Project: Simple Calculator                                          | Build a simple calculator program using C with basic arithmetic operations.
+|          | Day 7  | Project: Fun With Numbers                                           | Build a code that allows the user to input a number of 2 to 5 digits and perform different operations based on the number's digit count.
 | Week 2   | Day 8  | Functions and Pointers                                              | Introduction to functions and their role in organizing code. Understand the concept of pointers and their usage. 
 |          | Day 9  | Functions and Pointers (Continued)                                  | Explore function parameters, return types, and the concept of pass-by-value and pass-by-reference. 
 |          | Day 10 | Arrays and Functions                                                | Learn about arrays, their declaration, initialization, and usage in functions. 
